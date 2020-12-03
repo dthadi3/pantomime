@@ -5,4 +5,4 @@ arch:
 sudo: false
 script: lein all test
 jdk:
-  - openjdk11 
+  - oraclejdk11 
